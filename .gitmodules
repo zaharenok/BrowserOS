@@ -2,3 +2,6 @@
 	path = .internal-docs
 	url = git@github.com:browseros-ai/internal-docs.git
 	branch = main
+[submodule "jevski"]
+	path = jevski
+	url = https://github.com/zaharenok/jevski-browser.git
